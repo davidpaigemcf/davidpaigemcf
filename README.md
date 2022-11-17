@@ -6,7 +6,7 @@
 
 ## Hi there 👋,
 
-### I'm David. Join me on my journey as a self-taught data analyst 📚
+### I'm David. Join me on my journey to becoming a full-time data analyst 📚
 -------
   
 ## 🧐 About
