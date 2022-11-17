@@ -25,6 +25,7 @@ I love telling stories with data. I'm seeking the opportunity to switch into a c
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src= "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 ## 👷🏾‍♂️ Projects
+- [Analyzing Data from a Bike Sharing Service](https://github.com/davidpaigemcf/bike-case-study-in-r) <br> <sub>**R**</sub>
 - [Exploring Consumer Prices Data](https://github.com/davidpaigemcf/cac-survey-project) <br> <sub>**SQL**</sub>
 - [MyMathCamp.com](https://www.mymathcamp.com/) <br> <sub>**Wordpress/HTML/CSS**</sub>
 
