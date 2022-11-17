@@ -24,6 +24,10 @@ I love telling stories with data. I'm seeking the opportunity to switch into a c
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src= "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
+## 👷🏾‍♂️ Projects
+- [Exploring Consumer Prices Data](https://github.com/davidpaigemcf/cac-survey-project) <br> <sub>**SQL**</sub>
+- [MyMathCamp.com](https://www.mymathcamp.com/) <br> <sub>**Wordpress/HTML/CSS**</sub>
+
 ## ⚡️ Fun Facts
 
 - 📫 I LOVE learning new things, teach me something!
