@@ -11,14 +11,7 @@
   
 ## 🧐 About
 
-I love telling stories with data. I'm seeking the opportunity to switch into a career as a full time data analyst. 
-
-- 😎 Math Teacher by day, Data Analyst Enthusiast by night 
-- 🕸️ Checkout my personal project helping kids to learn Math at mymathcamp.com (developed by me)
-- 😄 I love joining communities to learn from others and share what I've learnt
-- 🎓 Completed Google Certificate in Data Analytics
-- 🌱 I'm currently learning Python 
-- 🕺🏾 And Many More...
+I love telling stories with data. 
 
 ## Skills
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
